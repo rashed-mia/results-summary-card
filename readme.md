@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop-view](./public/final-output/desktop-view.png.jpg)
-![Mobile-view](./public/final-output/mobile-view.png.jpg)
+![Desktop-view](/public/final-output/desktop-view.png.jpg)
+![Mobile-view](/public/final-output/mobile-view.png.jpg)
 
 
 ### Links
