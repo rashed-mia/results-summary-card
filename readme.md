@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [source code](https://github.com/rashed-mia/results-summary-card.git)
+- Live Site URL: [live project](https://results-summary-card-liard.vercel.app/)
 
 ## My process
 
